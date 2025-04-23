@@ -10,8 +10,6 @@ and **Structural Equation Modelling (SEM)** to analyze relationships between use
 The research is drawn from a dataset of **380 FinTech users** to generate insights that FinTech companies can use to improve user strategies, 
 optimize communication, and enhance promotional effectiveness.
 
----
-
 ## 🧪 Methodology
 
 - **Tools Used**:  
@@ -24,7 +22,7 @@ optimize communication, and enhance promotional effectiveness.
   - Structural Equation Modeling (SEM)  
   - Model Fit Indices & Path Analysis  
 
----
+
 
 ## 💡 Key Findings
 
@@ -36,14 +34,14 @@ optimize communication, and enhance promotional effectiveness.
   - Foster better communication channels  
   - Use targeted messaging through media
 
----
+
 
 ## 📉 Limitations
 
 - Sample may not fully represent the entire South Indian FinTech user base
 - Rapid evolution of the FinTech industry may affect generalizability
 
----
+
 
 ## 🎯 Contribution
 
@@ -51,6 +49,6 @@ This research contributes to FinTech literature by offering deep insights into *
 especially regarding engagement and loyalty metrics. The results can inform strategic development, marketing, 
 and customer experience design.
 
----
+
 
 

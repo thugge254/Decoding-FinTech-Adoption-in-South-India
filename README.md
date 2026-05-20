@@ -34,7 +34,10 @@ optimize communication, and enhance promotional effectiveness.
   - Foster better communication channels  
   - Use targeted messaging through media
 
+### Screenshot
 
+#### Model Overview
+![MO](cfa_model.png)
 
 ## 📉 Limitations
 

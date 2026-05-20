@@ -1,5 +1,5 @@
 # Decoding FinTech Adoption in South India  
-*A Comprehensive Analysis of Customer Perspectives, Engagement Patterns, and Advocacy Dynamics*
+**A Comprehensive Analysis of Customer Perspectives, Engagement Patterns, and Advocacy Dynamics**
 
 ## 📊 Project Overview
 

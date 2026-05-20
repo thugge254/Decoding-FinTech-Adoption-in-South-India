@@ -44,13 +44,27 @@ optimize communication, and enhance promotional effectiveness.
 - Sample may not fully represent the entire South Indian FinTech user base
 - Rapid evolution of the FinTech industry may affect generalizability
 
-
-
 ## 🎯 Contribution
 
 This research contributes to FinTech literature by offering deep insights into **regional user behavior**, 
 especially regarding engagement and loyalty metrics. The results can inform strategic development, marketing, 
 and customer experience design.
+
+### Author
+Moses Chege
+
+#### Data Analyst | SQL • Python • R • Excel | Turning Data into Actionable Insights
+### Skills
+- SPSS
+- Research
+- Data Cleaning 
+- Data Visualization
+
+#### GitHub Repository:
+https://github.com/thugge254/Decoding-FinTech-Adoption-in-South-India
+
+### License
+This project is open-source and available under the MIT License.
 
 
 

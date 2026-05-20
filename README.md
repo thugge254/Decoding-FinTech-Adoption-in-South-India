@@ -36,8 +36,11 @@ optimize communication, and enhance promotional effectiveness.
 
 ### Screenshot
 
-#### Model Overview
+#### CFA Model Overview
 ![MO](cfa_model.png)
+
+#### SME Model Overview
+![MO](SME_MODEL.png)
 
 ## 📉 Limitations
 
